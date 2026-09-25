@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+@theme {
+  /* Pennant brand palette: maroon, navy, gold */
+  --color-maroon-50: #fdf2f3;
+  --color-maroon-100: #fbe3e5;
+  --color-maroon-200: #f5c6cb;
+  --color-maroon-300: #e99aa4;
+  --color-maroon-400: #d9636f;
+  --color-maroon-500: #c23a48;
+  --color-maroon-600: #a3232f;
+  --color-maroon-700: #7a1a24;
+  --color-maroon-800: #601721;
+  --color-maroon-900: #4a141c;
+  --color-maroon-950: #2b090e;
+
+  --color-navy-50: #eef2f9;
+  --color-navy-100: #d6e0f0;
+  --color-navy-200: #adc1e1;
+  --color-navy-300: #7e9ccb;
+  --color-navy-400: #4f75ad;
+  --color-navy-500: #325790;
+  --color-navy-600: #223f70;
+  --color-navy-700: #1a3058;
+  --color-navy-800: #14243f;
+  --color-navy-900: #0d1829;
+  --color-navy-950: #070d17;
+
+  --color-gold-50: #fdf9ec;
+  --color-gold-100: #faf0cb;
+  --color-gold-200: #f4de95;
+  --color-gold-300: #edc65a;
+  --color-gold-400: #e5ab30;
+  --color-gold-500: #cc8f1e;
+  --color-gold-600: #a86f18;
+  --color-gold-700: #855218;
+  --color-gold-800: #6d4219;
+  --color-gold-900: #5c3819;
+  --color-gold-950: #341c0a;
+}
